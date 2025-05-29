@@ -30,7 +30,7 @@ Kayıp Evcil Hayvan Takip Sistemi için SQL Server veritabanı yedeği ve sql so
 
 - Gerekli ayarları kontrol ettikten sonra "OK" butonuna tıklayarak yükleme işlemini tamamlayın.
 
-#Notlar
+# Notlar
 - Bu veritabanı, ANITSAYAC uygulamasının veri yönetimi için kullanılmaktadır ve arayüzü C# ile geliştirilmiştir.
 
 - Bu veritabanı, Kadınlar, Failler, Kaynaklar ve Olaylar tablolarını içermektedir.
