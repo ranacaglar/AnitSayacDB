@@ -1,5 +1,7 @@
 # AnitSayacDB
-Kayıp Evcil Hayvan Takip Sistemi için SQL Server veritabanı yedeği ve sql sorguları. kullanıcı arayüzü C# ile geliştirilmiştir.
+Bu proje, Anıt Sayaç uygulamasına ait verilerin yönetimi için geliştirilmiş bir SQL Server veritabanı ve C# (Windows Forms) tabanlı masaüstü uygulamadır.
+
+Veritabanı; öldürülen kadınlara ait bilgiler, failler, olay detayları ve kaynaklar gibi kritik verileri içermekte olup, `.bak` formatında yedeklenmiştir. Ayrıca uygulamada kullanılan SQL sorguları da proje ile birlikte sunulmaktadır.
 
 # Kullanılan Teknolojiler
 - C# (Windows Forms App) – Masaüstü arayüz uygulaması
