@@ -1,7 +1,7 @@
 # AnitSayacDB
 Bu proje, Anıt Sayaç uygulamasına ait verilerin yönetimi için geliştirilmiş bir SQL Server veritabanıdır. C# ile görsel arayüz eklenmiştir.
 
-Veritabanı; öldürülen kadınlara ait bilgiler, failler, olay detayları ve kaynaklar gibi kritik verileri içermekte olup, `.bak` formatında yedeklenmiştir. Ayrıca uygulamada kullanılan SQL sorguları da proje ile birlikte sunulmaktadır.
+Veritabanı; öldürülen kadınlara ait bilgiler, failler, olay detayları ve kaynaklar gibi kritik verileri içermekte olup, .bak formatında yedeklenmiştir. Ayrıca uygulamada kullanılan SQL sorguları da proje ile birlikte sunulmaktadır.
 
 # Kullanılan Teknolojiler
 - C# (Windows Forms App) – Masaüstü arayüz uygulaması
@@ -33,11 +33,10 @@ Veritabanı; öldürülen kadınlara ait bilgiler, failler, olay detayları ve k
 - Gerekli ayarları kontrol ettikten sonra "OK" butonuna tıklayarak yükleme işlemini tamamlayın.
 
 # Notlar
+- Proje, Veri Tabanı Yönetim Sistemleri dersi kapsamında geliştirilmiştir.
+
 - Bu veritabanı, ANITSAYAC uygulamasının veri yönetimi için kullanılmaktadır ve arayüzü C# ile geliştirilmiştir.
 
-- Bu veritabanı, Kadınlar, Failler, Kaynaklar ve Olaylar tablolarını içermektedir.
+- Kadınlar, Failler, Kaynaklar ve Olaylar tablolarını içermektedir.
 
 - Her tabloya yönelik ekle, sil, düzenle işlemleri Windows Forms üzerinden gerçekleştirilmiştir.
-
-- Uygulama, gerçek verilerle test edilmiş ve kapsamlı veri yönetimi sağlamak üzere tasarlanmıştır.
-
